@@ -1,13 +1,11 @@
 const primeNum = require("../lib/prime");
-! function() {
-    let preTime = new Date()
-    primeNum.generatePrimeMapUnderNumber(1000000)
-    console.log(new Date() - preTime)
-}()
+const reader = require('../lib/read');
+! function() {}()
 
 
 const Util = {
     primeNum,
+    reader
 }
 
 module.exports = Util

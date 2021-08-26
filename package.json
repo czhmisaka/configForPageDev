@@ -1,8 +1,8 @@
 {
-    "name": "czhmisakabasic",
-    "version": "1.0.0",
+    "name": "czhmisakadev",
+    "version": "1.0.1",
     "description": "for dev",
-    "main": "index.js",
+    "main": "./Config/index.js",
     "scripts": {
         "test": "node ./Config/index.js"
     },
@@ -20,7 +20,5 @@
         "url": "https://github.com/czhmisaka/probable-garbanzo/issues"
     },
     "homepage": "https://github.com/czhmisaka/probable-garbanzo#readme",
-    "dependencies": {
-        "fs": "0.0.1-security"
-    }
+    "dependencies": {}
 }
