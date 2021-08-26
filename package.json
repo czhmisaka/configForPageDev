@@ -1,0 +1,26 @@
+{
+    "name": "czhmisakabasic",
+    "version": "1.0.0",
+    "description": "for dev",
+    "main": "index.js",
+    "scripts": {
+        "test": "node ./Config/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/czhmisaka/probable-garbanzo.git"
+    },
+    "keywords": [
+        "basic",
+        "czhmisaka"
+    ],
+    "author": "czhmisaka",
+    "license": "MIT ",
+    "bugs": {
+        "url": "https://github.com/czhmisaka/probable-garbanzo/issues"
+    },
+    "homepage": "https://github.com/czhmisaka/probable-garbanzo#readme",
+    "dependencies": {
+        "fs": "0.0.1-security"
+    }
+}
