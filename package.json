@@ -20,5 +20,8 @@
         "url": "https://github.com/czhmisaka/probable-garbanzo/issues"
     },
     "homepage": "https://github.com/czhmisaka/probable-garbanzo#readme",
-    "dependencies": {}
+    "dependencies": {
+        "lodash": "^4.17.21",
+        "request": "^2.88.2"
+    }
 }
