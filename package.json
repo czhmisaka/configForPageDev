@@ -1,6 +1,6 @@
 {
     "name": "czhmisakadev",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "description": "for dev",
     "main": "./Config/index.js",
     "scripts": {
