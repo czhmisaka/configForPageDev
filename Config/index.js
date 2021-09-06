@@ -4,12 +4,17 @@
  */
 const primeNum = require("../lib/prime");
 const reader = require('../lib/read');
-! function() {}()
+const num = require('../lib/num');
+const output = require('../lib/outPut');
+const sort = require('./lib/sort')
 
-
+    ! function () {}()
 const Util = {
     primeNum,
-    reader
+    reader,
+    output,
+    num,
+    sort
 }
 
 module.exports = Util
