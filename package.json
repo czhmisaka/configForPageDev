@@ -1,10 +1,11 @@
 {
     "name": "czhmisakadev",
-    "version": "1.0.4",
+    "version": "1.0.6",
     "description": "for dev",
     "main": "./Config/index.js",
     "scripts": {
-        "test": "node ./Config/index.js"
+        "test": "node ./Config/index.js",
+        "dev": "node test.js"
     },
     "repository": {
         "type": "git",
@@ -21,7 +22,6 @@
     },
     "homepage": "https://github.com/czhmisaka/probable-garbanzo#readme",
     "dependencies": {
-        "lodash": "^4.17.21",
         "request": "^2.88.2"
     }
 }
